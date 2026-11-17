@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "mysql2": "latest",
+    "dotenv": "latest"
+  }
+}
